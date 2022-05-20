@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ChapCarr 
-- 👀 I’m interested in ... Programming and Skateboarding  
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... Anything I can help with
-- 📫 How to reach me ... chapellcarr@gmail.com
+Hi, I am Chap Carr. :D
+Welcome to my Github Page, I am currently learning Python.
+My interest are in back end dev and IoT but learning any part of programming is cool to me!
+Contact me at: chapellcarr@gmail.com 
 
 <!---
 ChapCarr/ChapCarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
