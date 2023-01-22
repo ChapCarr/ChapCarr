@@ -1,6 +1,8 @@
-Hi, I am Chap Carr. :D
-Welcome to my Github Page, I am currently learning Python.
-My interest are in back end dev and IoT but learning any part of programming is cool to me!
+Hi, I am Chapell Carr. 
+Welcome to my Github Page, I am currently a student at UT San Antonio majoring in computer science. 
+Currently I am focusing on learning Java but the main amount of my coding experience is in Python. 
+
+
 Contact me at: chapellcarr@gmail.com 
 
 <!---
