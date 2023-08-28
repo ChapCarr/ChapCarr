@@ -1,6 +1,6 @@
 Hi, I am Chapell Carr. 
 Welcome to my Github Page, I am currently a student at UT San Antonio majoring in computer science. 
-Currently I am focusing on learning Java but the main amount of my coding experience is in Python. 
+Currently I am focusing on learning C but the main amount of my coding experience is in Python and Java. 
 
 
 Contact me at: chapellcarr@gmail.com 
