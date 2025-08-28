@@ -1,7 +1,5 @@
 Howdy, I am Chapell Carr. 
-Welcome to my Github Page, I am currently a 3rd year student at UT San Antonio majoring in computer science. 
-Currently I am focusing on learning Go outside of class
-Most of my experience has been in C with a healthy dose of Java and Python mixed in there as well. :) 
+Welcome to my Github Page, I am currently a 4th year student at UT San Antonio majoring in computer science. :) 
 
 
 Contact me at: chapellcarr@gmail.com 
